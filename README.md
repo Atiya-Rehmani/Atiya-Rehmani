@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atiya Rehmani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atiya-rehmani&label=Profile%20views&color=0e75b6&style=flat" alt="atiya-rehmani" /> </p>
 
-- 🌱 I’m currently learning **Python, SQL**
+- 🌱 I’m currently learning **Python, SQL, Data Analytics**
 
 - 📫 How to reach me **rehmani.atiya20@gmail.com**
 
